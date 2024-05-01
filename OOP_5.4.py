@@ -11,6 +11,7 @@ string Ч значение строки
 
 ѕримечание 2. Ќикаких ограничений касательно реализации класса ReversibleString нет, она может быть произвольной.'''
 
+
 class ReversibleString:
     def __init__(self, string: str):
         self.string = string
